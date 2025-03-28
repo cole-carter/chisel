@@ -1,0 +1,1 @@
+When referencing these samples, remember that they are samples of a single example, and so details about specific urls or stories or types can't be gleaned. The column names, datatypes and cell formats will be relevant though.

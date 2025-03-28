@@ -1,0 +1,19 @@
+Find Client on portal
+click manage
+click export
+download csv
+place in client folder
+go to ahrefs
+search client domain (select subdomains on the right)
+select backlinks from the left
+select dofollow
+select new
+make date range from client's inception to today
+export utf-8
+place in client folder
+run bigbacklink
+create new client if necessary
+drag and drop files
+select desired client
+click analyze
+wait for report
